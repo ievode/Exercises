@@ -1,0 +1,82 @@
+<<<<<<< HEAD
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    font-style: italic;
+    color: #4CAF50;
+    text-align: center;
+}
+p1 {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #200168;
+}
+p2 {
+    font-size: 16px;
+    font-style: bold;/*bold test*/
+    color: #120266;
+    background-color: #fff3e0;
+    padding: 10px;
+    border-left: 5px solid #ff9800;
+}
+
+p3 {
+    display: block;
+    width: 500px;
+    padding: 10px 20px;
+    background-color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    font-size: 14px;
+    color: blue;
+    margin: auto;
+    text-align: left;
+=======
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    font-style: italic;
+    color: #4CAF50;
+    text-align: center;
+}
+p1 {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #200168;
+}
+p2 {
+    font-size: 16px;
+    font-style: bold;/*bold test*/
+    color: #120266;
+    background-color: #fff3e0;
+    padding: 10px;
+    border-left: 5px solid #ff9800;
+}
+
+p3 {
+    display: block;
+    width: 500px;
+    padding: 10px 20px;
+    background-color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    font-size: 14px;
+    color: blue;
+    margin: auto;
+    text-align: left;
+>>>>>>> 3272bb9 (Initial commit with HTML files)
+}

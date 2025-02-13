@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(30, 174, 179);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    color: aliceblue;
+    }
+
+#movies{
+font-style: italic
+}
+
+#victoria{
+color: rgb(161, 15, 5);
+}
+
+.image_container{
+    display: flex;
+    margin: 10px; 
+}
+
+.headers{
+    font-size: xx-large;
+    font-style:italic;
+    color: rgb(66, 66, 231);
+}
